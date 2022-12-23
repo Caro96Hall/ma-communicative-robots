@@ -41,7 +41,7 @@ Supervisor: Selene Baez Santamaria
 - Student 1: Bas Diender
 - Student 2:
 - Student 3:
-- Student 4:
+- Student 4: Caroline Hallmann 
 - Student 5:
 
 TO DO:
